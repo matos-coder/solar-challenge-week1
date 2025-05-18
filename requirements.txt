@@ -5,5 +5,3 @@ seaborn
 scipy
 plotly
 windrose
-
-python --version
