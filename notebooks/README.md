@@ -57,3 +57,8 @@ References for statistical methods and plotting functions are included as markdo
 - EDA techniques to understand data and discover insights
 - Demonstrating statistical understanding using suitable distributions and plots
 
+
+## Cross-Country Comparison  
+Key findings:  
+- Benin has the highest solar potential.  
+- Statistical significance confirmed via ANOVA (p < 0.05).  
